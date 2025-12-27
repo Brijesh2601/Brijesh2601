@@ -1,7 +1,11 @@
 # 💫 About Me:
-I'm currently learning<br>
+I’m a Computer Science student and Python developer with a strong interest in **Network Security and Cybersecurity**. I’m currently focusing on **network security fundamentals, traffic analysis, intrusion detection systems (IDS), and security automation using Python**.
 
+I work with **Python for network scanning, packet analysis, log monitoring, and attack detection**, and I regularly practice through **hands-on labs, security projects, and SOC-style exercises**. I also have experience with **.NET, Laravel, MySQL, Linux basics, and data analysis**, helping me build **secure and scalable applications**.
 
+My goal is to grow into a **Network Security Engineer / SOC Analyst**, with a strong foundation in **ethical hacking, incident detection, and defensive security techniques**. I believe in **continuous learning, clean code, and applying security best practices in real-world systems**.
+
+🔐 Network Security • 🐍 Python for Cybersecurity • 🛡️ IDS & SOC • ⚙️ Security Automation
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Brijesh Sheladiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brijeshsheladiya26@gmail.com) 
 
