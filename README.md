@@ -14,12 +14,12 @@ My goal is to grow into a **Network Security Engineer / SOC Analyst**, with a st
 
 ---
 
-### 🏆 Profile Trophies
+<!--### 🏆 Profile Trophies
 
-Service is currently down (503 Error). Uncomment when back online.
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brijesh2601&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+<!-- Trophies service is down, using Profile Details Card instead -->
+<!-- [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brijesh2601&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 ---
+
 
 ### 🌐 Socials Link
 
@@ -57,7 +57,7 @@ Service is currently down (503 Error). Uncomment when back online.
 
 <p align="center">
 <!-- Service down (503) <img src="https://github-readme-stats.vercel.app/api?username=Brijesh2601&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="Brijesh2601" /> -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=Brijesh2601&theme=tokyonight&hide_border=false" height="180" alt="Brijesh2601" />
+<img src="https://streak-stats.demolab.com/?user=Brijesh2601&theme=tokyonight&hide_border=false" height="180" alt="Brijesh2601" />
 </p>
 <p align="center">
 <!-- Service down (503) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh2601&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="Brijesh2601" /> -->
