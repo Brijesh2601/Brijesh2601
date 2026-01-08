@@ -58,11 +58,11 @@ Service is currently down (503 Error). Uncomment when back online.
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Brijesh2601&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="Brijesh2601" />
+<!-- Service down (503) <img src="https://github-readme-stats.vercel.app/api?username=Brijesh2601&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="180" alt="Brijesh2601" /> -->
 <img src="https://nirzak-streak-stats.vercel.app/?user=Brijesh2601&theme=tokyonight&hide_border=false" height="180" alt="Brijesh2601" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh2601&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="Brijesh2601" />
+<!-- Service down (503) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brijesh2601&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="Brijesh2601" /> -->
 </p>
 
 ---
