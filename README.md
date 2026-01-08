@@ -16,10 +16,8 @@ My goal is to grow into a **Network Security Engineer / SOC Analyst**, with a st
 
 ### 🏆 Profile Trophies
 
-<!-- 
 Service is currently down (503 Error). Uncomment when back online.
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brijesh2601&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy) 
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brijesh2601&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
